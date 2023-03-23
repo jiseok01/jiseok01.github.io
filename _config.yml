@@ -2,10 +2,10 @@
 title: Blog
 description: jiseok's blogs
 url: https://jiseok01.github.io
-avatar: https://cdn.pixabay.com/photo/2022/10/26/03/30/fog-7547298_960_720.jpg
+avatar: https://cdn.pixabay.com/photo/2020/11/25/14/14/cat-5775895__340.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: https://cdn.pixabay.com/photo/2022/05/21/09/30/cat-7211080__340.jpg
 
 # Gems
 plugins:
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: jiseok
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: jiseok
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/
+    - https://github.com/jiseok01
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: jiseok
+  url: https://github.com/jiseok01/
+  email: jjs82@donga.ac.kr
