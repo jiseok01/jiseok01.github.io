@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Blog
+description: jiseok's blogs
 url: https://jiseok01.github.io
-avatar: /avatar.jpeg
+avatar: https://cdn.pixabay.com/photo/2022/10/26/03/30/fog-7547298_960_720.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
